@@ -5,8 +5,8 @@
 # 👋 Hi, I'm Kumaraswamy G
 
 🎓 MTech Integrated CSE @ VIT Chennai  
-💻 Java Developer  
-🧠 DSA Learner  
+🤖 Machine Learning & GenAI Developer 
+
 
 ---
 
