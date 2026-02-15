@@ -10,6 +10,6 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kumar070204&show_icons=true&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kumar070204&show_icons=true&theme=tokyonight)](https://github.com/Kumar070204)
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Kumar070204&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kumar070204&theme=tokyonight)](https://github.com/Kumar070204)
