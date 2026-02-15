@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Kumaraswamy%20G&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Integrated+MTech+CSE+Student+@+VIT+Chennai;Machine+Learning+%26+GenAI+Developer)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Integrated+MTech+CSE+Student+@+VIT+Chennai;Machine+Learning+%26+GenAI+Developer" />
+</p>
+
 
 
 # 👋 Hi, I'm Kumaraswamy G
