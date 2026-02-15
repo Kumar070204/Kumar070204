@@ -4,9 +4,12 @@
 
 # 👋 Hi, I'm Kumaraswamy G
 
-🎓 MTech Integrated CSE (Business Analytics) @ VIT Chennai  
+🎓 MTech Integrated CSE @ VIT Chennai  
 💻 Java Developer  
-🧠 Learning Data Structures & Algorithms  
-🚀 Aspiring Software Engineer  
+🧠 DSA Learner  
 
-![stats](https://github-readme-stats.vercel.app/api?username=Kumar070204&show_icons=true&theme=tokyonight)
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kumar070204&show_icons=true&theme=tokyonight)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Kumar070204&theme=tokyonight)
