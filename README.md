@@ -8,10 +8,12 @@
 
 # 👋 Hi, I'm Kumaraswamy G
 
-👨‍💻 About Me
-🎓 Integrated M.Tech in Computer Science (Business Analytics) @ VIT Chennai
-💼 Ex-SDE Intern @ Prodapt Solutions Pvt. Ltd.
-🤖 ML & DL Developer focused on building real-world AI solutions
+## 👨‍💻 About Me
+
+🎓 Integrated M.Tech in Computer Science (Business Analytics) @ VIT Chennai  
+💼 Ex-SDE Intern @ Prodapt Solutions Pvt. Ltd.  
+🤖 Machine Learning & GenAI Developer focused on real-world AI solutions  
+🚀 Passionate about Software Development, AI, and scalable systems  
 
 
 ---
