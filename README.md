@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Integrated+MTech+CSE+Student+@+VIT+Chennai;Machine+Learning+%26+GenAI+Developer" />
 </p>
 
+<p align="center">
+  <img src="fbc6f31bd3b84159470b973aca7e0f97.gif" width="700"/>
+</p>
 
 
 # 👋 Hi, I'm Kumaraswamy G
