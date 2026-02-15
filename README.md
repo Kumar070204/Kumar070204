@@ -8,8 +8,10 @@
 
 # 👋 Hi, I'm Kumaraswamy G
 
-🎓 MTech Integrated CSE @ VIT Chennai  
-🤖 Machine Learning & GenAI Developer
+👨‍💻 About Me
+🎓 Integrated M.Tech in Computer Science (Business Analytics) @ VIT Chennai
+💼 Ex-SDE Intern @ Prodapt Solutions Pvt. Ltd.
+🤖 ML & DL Developer focused on building real-world AI solutions
 
 
 ---
