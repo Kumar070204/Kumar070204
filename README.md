@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Kumaraswamy G
 
 🎓 MTech Integrated CSE @ VIT Chennai  
-🤖 Machine Learning & GenAI Developer 
+🤖 Machine Learning & GenAI Developer
 
 
 ---
