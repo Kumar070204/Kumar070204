@@ -59,6 +59,11 @@
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kumar070204&show_icons=true&theme=tokyonight)](https://github.com/Kumar070204)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kumar070204&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumar070204&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kumar070204&theme=tokyonight)](https://github.com/Kumar070204)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar070204&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
