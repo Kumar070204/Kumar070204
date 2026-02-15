@@ -68,3 +68,34 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar070204&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/kumaraswamy-g-872b81277/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kumaraswamy2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com_.kxmxr._">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/7200189144">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kumar070204&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
