@@ -57,42 +57,43 @@
 
 </p>
 
----
+## 🚀 Projects
 
-## Projects
 ---
 
 ### 🔹 [Corporate Wellness](https://github.com/Kumar070204/Corporate-Wellness)
-Employee wellness analytics platform that tracks health, engagement, and productivity metrics to provide actionable insights for organizations. Focused on promoting work-life balance and proactive health monitoring.  
-**Tech Stack:** Python, Flask, Data Analysis
+Employee wellness analytics platform that tracks health, engagement, and productivity metrics to generate actionable insights. Focused on promoting work-life balance and proactive health monitoring.  
+**Tech Stack:** `Python` `Flask` `Data Analysis`
 
 ---
 
 ### 🔹 [Healthcare Assistant Chatbot](https://github.com/Kumar070204/Healthcare-Assistant-Chatbot-main)
-AI-powered chatbot that provides basic medical guidance, symptom checking, and health-related information through conversational interaction. Designed to improve accessibility to preliminary healthcare support.  
-**Tech Stack:** Python, NLP, Flask
+AI-powered chatbot that provides basic medical guidance, symptom checking, and health-related information through conversational interaction.  
+**Tech Stack:** `Python` `NLP` `Flask`
 
 ---
 
 ### 🔹 [BUSZerk](https://github.com/Kumar070204/BUSZerk)
-Smart bus management system for optimizing route tracking, scheduling, and passenger updates. Enhances real-time visibility and operational efficiency in public transportation systems.  
-**Tech Stack:** Python, Web Development, Data Handling
+Smart bus management system for route tracking, scheduling, and real-time passenger updates to improve transport efficiency.  
+**Tech Stack:** `Python` `Web Development` `Data Handling`
 
 ---
 
 ### 🔹 [SafeMotion – AI Activity Monitoring Platform](https://github.com/Kumar070204/SafeMotion-AI-Activity-Monitoring-Platform)
-Computer vision-based platform that detects human activities and identifies unsafe or anomalous behavior in real-time. Useful for surveillance, workplace safety, and monitoring applications.  
-**Tech Stack:** Python, OpenCV, Machine Learning
-
-**[Deepfake Detection](https://github.com/Kumar070204/deepfake-detection)**
-CNN-based model to detect AI-generated faces in images and video frames. Trained on real/fake face datasets; deployed with a FastAPI backend for inference.
-`PyTorch` `FastAPI` `OpenCV`
-
-**[Telegram News Bot](https://github.com/Kumar070204/Telegram-news-bot)**
-Automated news aggregator that fetches, filters, and delivers topic-specific headlines to Telegram. Configurable by keyword and source.
-`Python` `Telegram Bot API`
+Computer vision-based system that detects human activities and flags unsafe or anomalous behavior in real time.  
+**Tech Stack:** `Python` `OpenCV` `Machine Learning`
 
 ---
+
+### 🔹 [Deepfake Detection](https://github.com/Kumar070204/deepfake-detection)
+CNN-based model to detect AI-generated faces in images and video frames, deployed with a FastAPI backend for inference.  
+**Tech Stack:** `PyTorch` `FastAPI` `OpenCV`
+
+---
+
+### 🔹 [Telegram News Bot](https://github.com/Kumar070204/Telegram-news-bot)
+Automated news aggregator that fetches, filters, and delivers topic-specific headlines to Telegram based on user-defined preferences.  
+**Tech Stack:** `Python` `Telegram Bot API`
 
 ---
 ## 📊 GitHub Stats
