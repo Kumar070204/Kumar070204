@@ -61,12 +61,6 @@
 
 ---
 
-### 🔹 [Corporate Wellness](https://github.com/Kumar070204/Corporate-Wellness)
-Employee wellness analytics platform that tracks health, engagement, and productivity metrics to generate actionable insights. Focused on promoting work-life balance and proactive health monitoring.  
-**Tech Stack:** `Python` `Flask` `Data Analysis`
-
----
-
 ### 🔹 [Healthcare Assistant Chatbot](https://github.com/Kumar070204/Healthcare-Assistant-Chatbot-main)
 AI-powered chatbot that provides basic medical guidance, symptom checking, and health-related information through conversational interaction.  
 **Tech Stack:** `Python` `NLP` `Flask`
