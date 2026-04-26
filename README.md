@@ -58,6 +58,28 @@
 </p>
 
 ---
+
+## Projects
+
+**[Deepfake Detection](https://github.com/Kumar070204/deepfake-detection)**
+CNN-based model to detect AI-generated faces in images and video frames. Trained on real/fake face datasets; deployed with a FastAPI backend for inference.
+`PyTorch` `FastAPI` `OpenCV`
+
+**[Student Burnout & Dropout Prediction](https://github.com/Kumar070204/orgx-behavioural-burnout-analytics)** *(OrgX Hackathon)*
+Early-warning system using behavioral signals — engagement patterns, assessment scores, attendance — to flag students at risk. Built end-to-end in 48 hours.
+`Python` `Scikit-learn` `Pandas` `TypeScript`
+
+**[Doctor Report App](https://github.com/Kumar070204/DoctorReportApp)**
+Web tool for structuring and summarizing patient-facing medical reports. Reduces documentation time for clinical staff.
+`Flask` `HTML` `JavaScript`
+
+**[Telegram News Bot](https://github.com/Kumar070204/Telegram-news-bot)**
+Automated news aggregator that fetches, filters, and delivers topic-specific headlines to Telegram. Configurable by keyword and source.
+`Python` `Telegram Bot API`
+
+---
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
