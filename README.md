@@ -61,6 +61,12 @@
 
 ---
 
+### 🔹 [Corporate Wellness](https://github.com/Kumar070204/corporate-wellness)
+Gamified corporate wellness platform that turns employee health data into a survival adventure — teams earn in-game resources by hitting real-world step, nutrition, and activity goals.  
+**Tech Stack:** `React` `TypeScript` `Vite` `Tailwind CSS` `Random Forest`
+
+---
+
 ### 🔹 [Healthcare Assistant Chatbot](https://github.com/Kumar070204/Healthcare-Assistant-Chatbot-main)
 AI-powered chatbot that provides basic medical guidance, symptom checking, and health-related information through conversational interaction.  
 **Tech Stack:** `Python` `NLP` `Flask`
