@@ -107,19 +107,19 @@ Automated news aggregator that fetches, filters, and delivers topic-specific hea
 
 <p align="center">
 
-<a href="https://linkedin.com/in/kumaraswamy-g-872b81277/">
+<a href="https://www.linkedin.com/in/kumaraswamy-g-872b81277/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:kumaraswamy2004@gmail.com">
+<a href="mailto:kumaraswamyg2004@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com_.kxmxr._">
+<a href="https://instagram.com/_.kxmxr._">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/+91 7200189144">
+<a href="https://wa.me/917200189144?text=Hello%20bro">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
