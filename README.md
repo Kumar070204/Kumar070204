@@ -58,7 +58,6 @@
 | [**Healthcare Assistant Chatbot**](https://github.com/Kumar070204/Healthcare-Assistant-Chatbot-main) | Conversational AI that provides symptom checking, basic medical guidance, and health information through natural dialogue. | `Python` `NLP` `Flask` |
 | [**BUSZerk**](https://github.com/Kumar070204/BUSZerk) | Women's safety + smart transit app for Chennai's MTC network — XGBoost crowd prediction, SOS alerts, fake call escape, and live bus tracking. | `Python` `XGBoost` `Flask` `Firebase` |
 | [**SafeMotion**](https://github.com/Kumar070204/SafeMotion-AI-Activity-Monitoring-Platform) | SafeMotion is an AI-powered activity monitoring system for elderly care, workplace safety, and rehabilitation.It uses human activity recognition, real-time alerts, and a modular ML pipeline with Firebase to deliver context-aware risk analysis and scalable safety insights.| `Python` `ML`|
-| [**Deepfake Detection**](https://github.com/Kumar070204/deepfake-detection) | CNN-based model that identifies AI-generated faces in images and video frames, served via a FastAPI inference backend. | `PyTorch` `FastAPI` `OpenCV` |
 | [**Telegram News Bot**](https://github.com/Kumar070204/Telegram-news-bot) | Automated aggregator that fetches, filters, and delivers topic-specific headlines to Telegram based on user-defined preferences. | `Python` `Telegram Bot API` |
 
 ---
