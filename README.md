@@ -1,13 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Kumaraswamy%20G&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Integrated+MTech+CSE+Student+@+VIT+Chennai;Machine+Learning+%26+GenAI+Developer" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Integrated+MTech+CSE+Student+%40+VIT+Chennai;Machine+Learning+%26+GenAI+Developer" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="fbc6f31bd3b84159470b973aca7e0f97.gif" width="700"/>
-</p>
-
+</div>
 
 # 👋 Hi, I'm Kumaraswamy G
 
@@ -29,7 +28,8 @@
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <br/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
@@ -37,7 +37,8 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <br/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
@@ -53,25 +54,26 @@
 ## 🚀 Projects
 
 | Project | Description | Stack |
-|---|---|---|
+|:--------|:------------|:------|
 | [**Corporate Wellness**](https://github.com/Kumar070204/corporate-wellness) | Gamified survival adventure that maps employee wellness — steps, nutrition, sleep — to in-game resources. Teams compete, earn points, and unlock rewards by hitting real health goals. | `React` `TypeScript` `Vite` `Tailwind` `Random Forest` |
 | [**Healthcare Assistant Chatbot**](https://github.com/Kumar070204/Healthcare-Assistant-Chatbot-main) | Conversational AI that provides symptom checking, basic medical guidance, and health information through natural dialogue. | `Python` `NLP` `Flask` |
 | [**BUSZerk**](https://github.com/Kumar070204/BUSZerk) | Women's safety + smart transit app for Chennai's MTC network — XGBoost crowd prediction, SOS alerts, fake call escape, and live bus tracking. | `Python` `XGBoost` `Flask` `Firebase` |
-| [**SafeMotion**](https://github.com/Kumar070204/SafeMotion-AI-Activity-Monitoring-Platform) | SafeMotion is an AI-powered activity monitoring system for elderly care, workplace safety, and rehabilitation.It uses human activity recognition, real-time alerts, and a modular ML pipeline with Firebase to deliver context-aware risk analysis and scalable safety insights.| `Python` `ML`|
+| [**SafeMotion**](https://github.com/Kumar070204/SafeMotion-AI-Activity-Monitoring-Platform) | AI-powered activity monitoring system for elderly care, workplace safety, and rehabilitation. Uses human activity recognition, real-time alerts, and a modular ML pipeline with Firebase. | `Python` `ML` |
 | [**Telegram News Bot**](https://github.com/Kumar070204/Telegram-news-bot) | Automated aggregator that fetches, filters, and delivers topic-specific headlines to Telegram based on user-defined preferences. | `Python` `Telegram Bot API` |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kumar070204&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kumar070204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumar070204&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar070204&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar070204&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
+</div>
 
 ---
 
@@ -81,18 +83,23 @@
   <a href="https://kumar-portfolio-pi.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/kumaraswamy-g-872b81277/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:kumaraswamyg2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://github.com/Kumar070204" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="https://instagram.com/_.kxmxr._" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  &nbsp;
   <a href="https://wa.me/917200189144?text=Hello%20Kumaraswamy" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
@@ -101,4 +108,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kumar070204&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
-
