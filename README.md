@@ -1,11 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Kumaraswamy%20G&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff)
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Integrated+MTech+CSE+Student+%40+VIT+Chennai;Machine+Learning+%26+GenAI+Developer" />
-</div>
-
-<div align="center">
-  <img src="fbc6f31bd3b84159470b973aca7e0f97.gif" width="700"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Kumaraswamy%20G&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
+  
+  <br />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Integrated+MTech+CSE+Student+%40+VIT+Chennai;Machine+Learning+%26+GenAI+Developer" width="100%" />
+  
+  <br />
+  
+  <img src="fbc6f31bd3b84159470b973aca7e0f97.gif" width="100%" />
 </div>
 
 # 👋 Hi, I'm Kumaraswamy G
@@ -80,29 +82,12 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://kumar-portfolio-pi.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/kumaraswamy-g-872b81277/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:kumaraswamyg2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Kumar070204" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/_.kxmxr._" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/917200189144?text=Hello%20Kumaraswamy" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
+  <a href="https://kumar-portfolio-pi.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/kumaraswamy-g-872b81277/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:kumaraswamyg2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://github.com/Kumar070204" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="https://instagram.com/_.kxmxr._" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+  <a href="https://wa.me/917200189144?text=Hello%20Kumaraswamy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
 <p align="center">
