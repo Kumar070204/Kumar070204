@@ -68,13 +68,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kumar070204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-
   <img src="https://streak-stats.demolab.com?user=Kumar070204&theme=tokyonight&hide_border=true" height="165"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumar070204&theme=tokyo-night&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar070204&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kumar070204&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
 </div>
 
 ---
