@@ -69,8 +69,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kumar070204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumar070204&theme=tokyonight&hide_border=true" height="165"/>
+
+  <img src="https://streak-stats.demolab.com?user=Kumar070204&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
