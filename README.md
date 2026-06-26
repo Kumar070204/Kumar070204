@@ -61,7 +61,7 @@
 | [**Healthcare Assistant Chatbot**](https://github.com/Kumar070204/Healthcare-Assistant-Chatbot-main) | Conversational AI that provides symptom checking, basic medical guidance, and health information through natural dialogue. | `Python` `NLP` `Flask` |
 | [**BUSZerk**](https://github.com/Kumar070204/BUSZerk) | Women's safety + smart transit app for Chennai's MTC network — XGBoost crowd prediction, SOS alerts, fake call escape, and live bus tracking. | `Python` `XGBoost` `Flask` `Firebase` |
 | [**SafeMotion**](https://github.com/Kumar070204/SafeMotion-AI-Activity-Monitoring-Platform) | AI-powered activity monitoring system for elderly care, workplace safety, and rehabilitation. Uses human activity recognition, real-time alerts, and a modular ML pipeline with Firebase. | `Python` `ML` |
-| [**Telegram News Bot**](https://github.com/Kumar070204/Telegram-news-bot) | Automated aggregator that fetches, filters, and delivers topic-specific headlines to Telegram based on user-defined preferences. | `Python` `Telegram Bot API` |
+| [**Goal Feasibility & Life-Aware Planning Engine**](https://github.com/Kumar070204/Goal-Feasibility-and-Life-Aware-Planning-Assistant) |AI-powered planning system that analyzes your real-world schedule to determine whether your goals are realistically achievable. | `Python` `Health Application` |
 
 ---
 
